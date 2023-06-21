@@ -1,0 +1,43 @@
+/* ===================================GLOBAL============================================= */
+.page {
+  height: 100%;
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.logo {
+  width: 228px;
+}
+
+.section-title {
+  width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 20px;
+  white-space: nowrap;
+}
+
+.section-subtitle {
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  white-space: nowrap;
+}
+
+.link {
+  color: #2f80ed;
+  transition: all .25s;
+}
+
+.link:hover{
+  opacity: 0.5;
+}
+

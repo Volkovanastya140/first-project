@@ -1,0 +1,16 @@
+.video__inner {
+  padding-top: 100px;
+}
+
+.videos {
+  display: flex;
+  margin: 50px auto -50px;
+  justify-content: center;
+}
+.video{
+  margin-right: 50px;
+
+}
+.video:last-child{
+  margin-right: 0;
+}

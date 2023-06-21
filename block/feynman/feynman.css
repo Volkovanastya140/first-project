@@ -1,0 +1,31 @@
+.feynman {
+  position: relative;
+  height: 890px;
+  background: url(../../images/feynman.png) no-repeat 0 101% / auto #f2f2f2;
+  padding-top: 100px;
+}
+
+.feynman__title {
+  text-align: center;
+  margin: 0 auto;
+  width: 648px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 700;
+  margin-bottom: 70px;
+}
+
+.feynman__subtitle {
+  text-align: center;
+  line-height: 51px;
+  font-size: 36px;
+}
+
+.feynman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  transform: translateY(-50%);
+  line-height: 51;
+  font-size: 36px;
+}

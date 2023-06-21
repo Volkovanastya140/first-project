@@ -1,0 +1,13 @@
+@import url(block/pages/page.css);
+@import url(../block/header/header.css);
+@import url(../block/description/description.css);
+@import url(../block/digits/digits.css);
+@import url(../block/feynman/feynman.css);
+@import url(../block/kaufman/kaufman.css);
+@import url(../block/footer/footer.css);
+@import url(block/rotation/rotation.css);
+@import url(block/techniques/techniques.css);
+@import url(block/video/video.css);
+@import url(block/oakley/oakley.css);
+@import url(block/khan/khan.css);
+@import url(block/resources/resources.css);

@@ -1,0 +1,54 @@
+.header {
+  width: 100%;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background: #f2f2f2;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.header__logo-place-header {
+  position: absolute;
+  top: 30px;
+  left: 64px;
+}
+
+.header__title {
+  max-width: 730px;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: 700;
+  margin-left: 64px;
+  z-index: 5;
+}
+
+.header__subtitle {
+  position: absolute;
+  bottom: 30px;
+  left: 64px;
+  max-width: 388px;
+  line-height: 25px;
+  font-size: 18px;
+  z-index: 5;
+}
+
+.header__square-pic {
+  background: #2f80ed;
+  width: 568px;
+  height: 568px;
+  position: absolute;
+  right: 0;
+  top: 64px;
+  animation: rotation 20s linear infinite;
+
+}
+
+.header__main-illustration {
+  width: 765px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
